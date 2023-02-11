@@ -1,0 +1,52 @@
+body {
+  background-color: lightblue;
+}
+
+#form-wrapper {
+  background-color: white;
+  margin: auto;
+  margin-top: 20px;
+  width: 900px;
+  height: auto;
+  padding: 20px;
+  border-radius: 12px;
+  border: 1px solid lightgray;
+}
+
+#header {
+  background-color: #638d99;
+  border-radius: 10px 10px 0px 0px;
+  border: lightgray solid 1px;
+}
+
+h1 {
+  color: #d9f6ff;
+}
+
+h5 {
+  color: #997654;
+}
+
+i {
+  color: #997654;
+}
+
+button i {
+  color: white;
+}
+
+hr {
+  border-color: #e6c9ac;
+}
+
+button {
+  background-color: #638d99 !important;
+}
+
+select {
+  display: inline;
+}
+
+.mb1 {
+  font-size: 80%;
+}
